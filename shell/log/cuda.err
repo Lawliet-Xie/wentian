@@ -1,0 +1,5 @@
++ cd /public/home/yuqi/lawliet/nlp/wentian/shell
++ date
++ hostname
++ nvidia-smi
++ date

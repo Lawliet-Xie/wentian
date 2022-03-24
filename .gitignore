@@ -1,0 +1,8 @@
+cache/
+result/
+ckpt/
+npy/
+
+.ipynb_checkpoints
+
+__pycache__/
